@@ -45,6 +45,4 @@ public class panel extends JPanel{
             g2d.fillRect(i*WIDTH/numbers.length, HEIGHT-numbers[i], WIDTH/numbers.length-1, numbers[i]);
         }
     }
-
-
 }
